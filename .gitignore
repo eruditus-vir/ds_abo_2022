@@ -6,3 +6,4 @@
 *housing.names
 *sitename.txt
 *.DS_Store
+.idea/*

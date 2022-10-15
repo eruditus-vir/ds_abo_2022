@@ -10,3 +10,5 @@ This lab is basically a prelude to miniproject1.
 The data is crawled using beautiful soup.
 
 UI is created using IPYWidget. 
+
+Site used is requestable.
